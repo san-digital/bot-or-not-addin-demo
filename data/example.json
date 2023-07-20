@@ -1,0 +1,33 @@
+{
+  "result": {
+    "overall": [
+      {
+        "label": "ChatGPT",
+        "score": 0.997187
+      }
+    ],
+    "perplexity": {
+      "gpt2": 62.58240509033203
+    },
+    "sentences": [
+      [
+        [
+          {
+            "label": "ChatGPT",
+            "score": 0.997544
+          }
+        ],
+        "Sample bot response."
+      ],
+      [
+        [
+          {
+            "label": "Human",
+            "score": -35.258751
+          }
+        ],
+        "Human response."
+      ]
+    ]
+  }
+}
